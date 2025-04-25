@@ -1,0 +1,20 @@
+# Changelog
+
+All notable changes to this project will be documented in this file.
+
+## [Unreleased]
+
+- Added Express.js koans (js_koan_express.js)
+- Removed koan.js
+
+## [0.1.0] - 2025-04-25
+
+### Added
+
+- Initial project setup
+- JavaScript basics koans (js_koan_basics.js)
+- JavaScript classes koans (js_koan_classes.js)
+- JavaScript async koans (js_koan_async.js)
+- Server implementation (server.js)
+- Project documentation (README.md)
+- Project license
