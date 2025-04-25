@@ -22,7 +22,7 @@ This collection guides you through several key areas of JavaScript:
 
 1.  **Clone or Download:** Get the project files onto your local machine.
     ```bash
-    git clone <your-repository-url> # Or download the ZIP
+    git clone <your-repository-url> # Don't download the ZIP
     cd <project-directory>
     ```
 2.  **Install Dependencies:** Open your terminal in the project directory and run:
